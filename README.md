@@ -45,11 +45,11 @@ I want to build lots of apps that are really helpful and mostly paid for and i w
 
 ### Useful resources
 
-(https://chatgpt.com) - This helped me in a better understand of my code, in cross checking my work to make sure there are no errors, to make sure I was able to do what i wanted and to efficiently complete this project.(AI is ur friend never underestimate it and never abuse it)
+- [ChatGPT](https://chatgpt.com) - This helped me understand my code better, cross-check my work for errors, and complete the project efficiently.
 
 ## Author
 
-- Email - [Osinakachi Blaise Mmeje](osinakachimmeje@gmail.com)
+- Email - [Osinakachi Blaise Mmeje](mailto:osinakachimmeje@gmail.com)
 - Instagram - [blaise_4life](https://instagram.com/blaise_4life)
 - Twitter - [@blaise_4life](https://www.twitter.com/blaise_4life)
 
